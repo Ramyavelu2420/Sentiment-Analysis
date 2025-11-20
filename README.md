@@ -1,1 +1,2 @@
-# Sentiment-Analysis
+Sentiment-Analysis
+Sentiment analysis using Naive Bayes Algorithm
